@@ -10,7 +10,6 @@ const Title = styled.h1`
 `
 
 function ProfileSidebar(props) {
-  console.log(props);
   return (
     <Box>
       <img src={`https://github.com/${props.githubUser}.png`} style={{ borderRadius: '8px' }}></img>
