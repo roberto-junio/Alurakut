@@ -11,8 +11,8 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: sans-serif;
-    //background-color: #6F92BB;
-    background-color: black;
+    background-color: #6F92BB;
+    //background-color: black;
   }
 
   #__next {
